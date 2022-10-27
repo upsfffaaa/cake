@@ -1,0 +1,15 @@
+C:\Users\Fergan\Desktop\работы\с#\торты\торт2\bin\Debug\net6.0\торт2.exe
+C:\Users\Fergan\Desktop\работы\с#\торты\торт2\bin\Debug\net6.0\торт2.deps.json
+C:\Users\Fergan\Desktop\работы\с#\торты\торт2\bin\Debug\net6.0\торт2.runtimeconfig.json
+C:\Users\Fergan\Desktop\работы\с#\торты\торт2\bin\Debug\net6.0\торт2.dll
+C:\Users\Fergan\Desktop\работы\с#\торты\торт2\bin\Debug\net6.0\торт2.pdb
+C:\Users\Fergan\Desktop\работы\с#\торты\торт2\obj\Debug\net6.0\торт2.csproj.AssemblyReference.cache
+C:\Users\Fergan\Desktop\работы\с#\торты\торт2\obj\Debug\net6.0\торт2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fergan\Desktop\работы\с#\торты\торт2\obj\Debug\net6.0\торт2.AssemblyInfoInputs.cache
+C:\Users\Fergan\Desktop\работы\с#\торты\торт2\obj\Debug\net6.0\торт2.AssemblyInfo.cs
+C:\Users\Fergan\Desktop\работы\с#\торты\торт2\obj\Debug\net6.0\торт2.csproj.CoreCompileInputs.cache
+C:\Users\Fergan\Desktop\работы\с#\торты\торт2\obj\Debug\net6.0\торт2.dll
+C:\Users\Fergan\Desktop\работы\с#\торты\торт2\obj\Debug\net6.0\refint\торт2.dll
+C:\Users\Fergan\Desktop\работы\с#\торты\торт2\obj\Debug\net6.0\торт2.pdb
+C:\Users\Fergan\Desktop\работы\с#\торты\торт2\obj\Debug\net6.0\торт2.genruntimeconfig.cache
+C:\Users\Fergan\Desktop\работы\с#\торты\торт2\obj\Debug\net6.0\ref\торт2.dll
